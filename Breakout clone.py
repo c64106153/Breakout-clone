@@ -1,5 +1,3 @@
-#測試
-
 import random
 import pygame
 import os
